@@ -78,6 +78,10 @@ Ce type de base est idéal pour apprendre l’intégration **mécanique + élect
 - **Tests & mise au point** : réglages d’angles, stabilité, scénarios d’usage, robustesse
 - **Bonnes pratiques** : sécurité (timeout), comportement fail-safe, documentation projet
 
+
+
+https://github.com/user-attachments/assets/50eba34a-3d30-4be2-9580-3f5b8f9628cc
+
 ---
 
 ## Architecture
@@ -89,3 +93,4 @@ flowchart LR
   C --> D[Robot articule en bois]
   B --> E[Logique commande: limites, home, timeout]
   E --> C
+
