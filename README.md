@@ -82,7 +82,7 @@ Ce type de base est idéal pour apprendre l’intégration **mécanique + élect
 
 https://github.com/user-attachments/assets/fd73c500-2882-43b3-ba42-774bb391b8b3
 
-
+Lien vers vidéo entière : https://drive.google.com/file/d/1-XuMlzyepEtRbh1HPWgBYrTXZ4qU4OqH/view?usp=sharing
 
 ---
 
